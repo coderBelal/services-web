@@ -1,8 +1,8 @@
- /** @type {import('next').NextConfig} */
-const nextConfig = {
-  images: {
-    domains: ['i.postimg.cc'],
+/** @type {import('postcss-load-config').Config} */
+const config = {
+  plugins: {
+    tailwindcss: {},
   },
 };
 
-module.exports = nextConfig;
+export default config;

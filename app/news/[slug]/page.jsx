@@ -1,6 +1,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
-import { articles } from '@/data/Data';
+import { articles } from '../../../data/Data';
 import { notFound } from 'next/navigation';
 
 export default function ArticlePage({ params }) {

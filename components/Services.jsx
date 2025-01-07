@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 const services = [
   {
-    title: "UPVC REPAIRS",
+    title:  "UPVC & Composite  Door Mechanism",
     description: "Our UPVC repair service includes both doors and windows covering, draught problems, faulty hinges and locking mechanisms...",
     image: "/placeholder.svg?height=300&width=400",
     link: "/upvc-repairs"

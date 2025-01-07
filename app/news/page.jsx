@@ -1,6 +1,7 @@
+import { articles } from "../../data/Data"
 import Image from 'next/image'
 import Link from 'next/link'
-import { articles } from '@/data/Data'
+ 
 
 const News = () => {
   return (
